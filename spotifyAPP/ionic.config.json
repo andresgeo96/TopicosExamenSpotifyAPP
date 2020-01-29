@@ -1,0 +1,7 @@
+{
+  "name": "spotifyAPP",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
